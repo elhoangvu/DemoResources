@@ -1,0 +1,23 @@
+{
+    "lottie": [
+        "1.json",
+        "2.json",
+        "3.json",
+        "4.json",
+        "5.json"
+    ],
+    "photo": [
+        "1.JPEG",
+        "2.JPEG",
+        "3.JPEG",
+        "4.JPEG",
+        "5.JPEG"
+    ],
+    "video": [
+        "1.MP4",
+        "2.MP4",
+        "3.MP4",
+        "4.MP4",
+        "5.MP4"
+    ]
+}
